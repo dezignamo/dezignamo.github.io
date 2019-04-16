@@ -16,7 +16,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: 'Barlow+Condensed', sans-serif;
+  font-family: "Barlow+Condensed", sans-serif;
   font-size: 22px;
 }
 
@@ -25,16 +25,16 @@ li a:hover {
 }
 
 h2 {
-  font-family: 'Barlow+Condensed', sans-serif;
+  font-family: "Barlow+Condensed", sans-serif;
 }
 
 li a.active {
-  font-family: 'Barlow+Condensed', sans-serif;
+  font-family: "Barlow+Condensed", sans-serif;
 }
 
 .bg {
   /* The image used */
-  background-image: url("img/live-music-cover-1400x830.jpg");
+  background-image: url("images/live-music-cover-1400x830.jpg");
   /* Full height */
   height: 100%;
 
