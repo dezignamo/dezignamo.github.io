@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #182b44;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Barlow+Condensed', sans-serif;
+  font-size: 22px;
+}
+
+li a:hover {
+  background-color: #314c72;
+}
+
+h2 {
+  font-family: 'Barlow+Condensed', sans-serif;
+}
+
+li a.active {
+  font-family: 'Barlow+Condensed', sans-serif;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img/live-music-cover-1400x830.jpg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
