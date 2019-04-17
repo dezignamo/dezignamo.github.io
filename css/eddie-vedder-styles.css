@@ -14,10 +14,11 @@ li a {
   display: inline;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 20  px;
   text-decoration: none;
-  font-family: 'Barlow+Condensed, 600', sans-serif;
-  font-size: 22px;
+  font-family: Barlow+Condensed, sans-serif;
+  font weight: 600;
+  font-size: 18px;
 }
 
 li a:hover {
@@ -29,7 +30,8 @@ h2 {
 }
 
 li a.active {
-  font-family: 'Barlow+Condensed, 600', sans-serif;
+  font-family: Barlow+Condensed, sans-serif;
+  font weight: 900;
 }
 
 .bg {
