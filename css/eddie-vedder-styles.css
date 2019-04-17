@@ -16,7 +16,7 @@ li a {
   text-align: center;
   padding: 20px 20  px;
   text-decoration: none;
-  font-family: Barlow+Condensed, sans-serif;
+  font-family: 'Barlow+Condensed', sans-serif;
   font weight: 600;
   font-size: 18px;
 }
@@ -30,7 +30,7 @@ h2 {
 }
 
 li a.active {
-  font-family: Barlow+Condensed, sans-serif;
+  font-family: 'Barlow+Condensed', sans-serif;
   font weight: 900;
 }
 
